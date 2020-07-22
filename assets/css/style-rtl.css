@@ -9,3 +9,17 @@ body{
 .navigation li{
     white-space: normal;
 }
+.btn{
+    color: #fff;
+}
+.btn:hover{
+    color: #fff;
+}
+.btn-outline-warning{
+    /* color: #FF9F43; */
+    border-color: #FF9F43;
+    background-color: #FF9F43;
+}
+.select2-dropdown--above{
+    left: 8px!important;
+}
