@@ -1,0 +1,11 @@
+/* All Edit Will Be Here */
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@600&display=swap');
+body{
+    font-family: 'Cairo', sans-serif!important;
+}
+.header-navbar .navbar-container ul.nav li a.dropdown-user-link .user-status{
+    color: green;
+}
+.navigation li{
+    white-space: normal;
+}
